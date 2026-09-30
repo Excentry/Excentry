@@ -31,12 +31,6 @@ Desarrollador web apasionado por crear soluciones interactivas y funcionales. Me
 
 ## 🚀 Proyectos Destacados
 
-### 🏗️ DevForge
-**Landing page responsive** para presentar servicios digitales  
-Construido con **HTML**, **CSS** y **diseño responsivo**
-
-[**→ Ver repositorio**](https://github.com/Excentry/DevForge-LandingPage) | [**→ Ver demo**](#)
-
 ### 🎮 React Tetris
 **Juego interactivo** del clásico Tetris implementado en React  
 Características: lógica de juego completa, controles de teclado, scoring
@@ -120,7 +114,7 @@ Diseño moderno con animaciones y secciones interactivas
 
 ¿Tienes una idea o quieres colaborar? ¡Me encantaría hablar contigo!
 
-[GitHub](https://github.com/Excentry) • [Email](#) • [Portfolio](#)
+[GitHub](https://github.com/Excentry) • [Email](mail:brayanjimenez5218@gmail.com) • [Portfolio](https://portfolio-web-0.vercel.app/)
 
 </div>
 
