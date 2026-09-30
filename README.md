@@ -5,7 +5,7 @@
 ### 💻 Full Stack Developer | 🚀 Passionate Learner | 🎨 Creative Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-Excentry-181717?style=flat-square&logo=github)](https://github.com/Excentry)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail)](mailto:excentry@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail)](mailto:brayanjimenez5218@gmail.com)
 
 </div>
 
@@ -48,7 +48,6 @@ Tecnologías: **React**, **CSS**, gestión de estado
 Características: consumo de API, búsqueda en tiempo real, diseño responsivo
 
 [**→ Ver repositorio**](https://github.com/Excentry/Programming/tree/master/Projects/PokeData) | [**→ Ver demo**](https://poke-data-0.vercel.app/)
-
 ### 💼 Portfolio Web
 **Portafolio personal** para mostrar trabajos y habilidades  
 Diseño moderno con animaciones y secciones interactivas
@@ -114,7 +113,7 @@ Diseño moderno con animaciones y secciones interactivas
 
 ¿Tienes una idea o quieres colaborar? ¡Me encantaría hablar contigo!
 
-[GitHub](https://github.com/Excentry) • [Email](mail:brayanjimenez5218@gmail.com) • [Portfolio](https://portfolio-web-0.vercel.app/)
+[GitHub](https://github.com/Excentry) • [Email](mailto:brayanjimenez5218@gmail.com) • [Portfolio](https://portfolio-web-0.vercel.app/)
 
 </div>
 
